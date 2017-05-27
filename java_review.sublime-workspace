@@ -1,0 +1,308 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"credit",
+				"creditCardNumber"
+			],
+			[
+				"furu",
+				"futureInvestmentValue"
+			],
+			[
+				"monthly",
+				"monthlySavings"
+			],
+			[
+				"mon",
+				"monthlyPayment"
+			],
+			[
+				"curr",
+				"currentHour"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "them",
+		"selected_items":
+		[
+			[
+				"them",
+				"Themr: List themes"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"th",
+				"Themr: List themes"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"PA",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 493.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			" import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/brian/workspace/java/review"
+	],
+	"file_history":
+	[
+		"/home/brian/workspace/java/playground/CreditCardValidator/CreditCardValidator.java",
+		"/home/brian/workspace/java/playground/CreditCardValidator/.gitignore",
+		"/home/brian/workspace/java/playground/CreditCardValidator/README.md",
+		"/home/brian/workspace/java/review/chapter_2/exercises/CompoundInterest.java",
+		"/home/brian/workspace/java/review/chapter_2/exercises/FutureInvestmentValue.java",
+		"/home/brian/workspace/java/review/chapter_2/exercises/AreaOfTriangle.java",
+		"/home/brian/workspace/java/review/chapter_2/exercises/SumOfDigits.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/ComputeChange.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/ComputeLoan.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/ShowCurrentTime.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/Checkpoint.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/DisplayTime.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/DayInWeek.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/ComputeAreaWithConstant.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/Test.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/ComputeAverage.java",
+		"/home/brian/workspace/java/review/chapter_2/examples/ComputeArea.java",
+		"/home/brian/workspace/java/review/chapter_1/examples/Welcome.java",
+		"/home/brian/workspace/java/review/chapter_1/exercises/Exercise1_3.java",
+		"/home/brian/workspace/java/review/chapter_1/exercises/Exercise1_11.java",
+		"/home/brian/Books/Java/SB_Java_Book/evennumberedexercise/Exercise01_12.java",
+		"/home/brian/workspace/java/review/chapter_1/examples/ShowRuntimeErrors.java",
+		"/home/brian/workspace/java/review/chapter_1/examples/ShowLogicErrors.java",
+		"/home/brian/workspace/java/review/PrelimTest.java",
+		"/home/brian/workspace/java/review/.gitignore",
+		"/home/brian/workspace/testrepo/style.css",
+		"/home/brian/workspace/testrepo/index.html",
+		"/home/brian/workspace/web/mydomain/public_html/index.html",
+		"/home/brian/workspace/testrepo/hotfix.txt",
+		"/home/brian/workspace/testrepo/newfile.txt",
+		"/home/brian/workspace/testrepo/.git/COMMIT_EDITMSG",
+		"/home/brian/Desktop/index.html",
+		"/home/brian/workspace/web/testsite/index.html",
+		"/home/brian/workspace/web/testsite/css/style.css",
+		"/home/brian/Desktop/mywebsiteinfo.txt",
+		"/home/brian/Desktop/newIndex.html",
+		"/home/brian/Desktop/mypage.html",
+		"/media/brian/McEntee BackUp/Brians Books/hfhtmlcss/chapter1/starbuzz/index.html",
+		"/media/brian/McEntee BackUp/Brians MacBook/Computer Programming/hfhtmlcss/chapter1/starbuzz/index.html",
+		"/media/brian/McEntee BackUp/Brians MacBook/Computer Programming/hfhtmlcss/chapter14/contest/form.html",
+		"/media/brian/McEntee BackUp/Brians MacBook/Computer Programming/hfhtmlcss/chapter15/transform.html",
+		"/media/brian/McEntee BackUp/Brians MacBook/Computer Programming/hfhtmlcss/chapter6/about/directions.html",
+		"/home/brian/Desktop/Lonelydotcom.txt",
+		"/home/brian/Documents/Productivity_Logs/17_02_03.txt",
+		"/home/brian/Workspace/Java/Review/Primitive_Vars.java",
+		"/home/brian/Workspace/Java/Playground/CoinToss/CoinToss.java",
+		"/home/brian/Desktop/helloworld.py",
+		"/home/brian/Desktop/test.py",
+		"/home/brian/Desktop/HelloWorld.java"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cents"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "java_review.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"~/workspace/testrepo/index.html"
+			],
+			[
+				"",
+				"~/workspace/testrepo/index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
