@@ -4,6 +4,26 @@
 		"selected_items":
 		[
 			[
+				"fit",
+				"fitsInInt"
+			],
+			[
+				"fits",
+				"fitsInShort"
+			],
+			[
+				"heigh",
+				"heightInMeters"
+			],
+			[
+				"weigh",
+				"weightInKilograms"
+			],
+			[
+				"int",
+				"interpretBMI"
+			],
+			[
 				"credit",
 				"creditCardNumber"
 			],
@@ -27,6 +47,37 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "chapter_3/examples/TestBooleanOperators.java",
+			"settings":
+			{
+				"buffer_size": 652,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "public class LeapYear {\n    public static void main(String[] args) {\n        \n    }\n}",
+			"file": "chapter_3/examples/LeapYear.java",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 85,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/home/brian/workspace/java/hackerrank/readfile/ReadFile.java",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -122,6 +173,18 @@
 	],
 	"file_history":
 	[
+		"/home/brian/workspace/java/playground/datatypes/DataTypes.java",
+		"/home/brian/workspace/java/playground/seriesloop/SeriesLoop.java",
+		"/home/brian/.config/autokey/data/My Phrases/First phrase.txt",
+		"/home/brian/workspace/java/review/chapter_3/SubtractionQuiz.java",
+		"/home/brian/workspace/java/review/chapter_3/examples/ComputeAndInterpretBMI.java",
+		"/home/brian/Desktop/Solution.java",
+		"/home/brian/workspace/java/playground/negative_subarrays/NegativeSubarrays.java",
+		"/home/brian/workspace/java/review/chapter_3/ComputeAndInterpretBMI.java",
+		"/home/brian/workspace/java/review/chapter_3/SimpleIfDemo.java",
+		"/home/brian/workspace/java/review/chapter_3/examples/AdditionQuiz.java",
+		"/home/brian/workspace/java/review/chapter_3/examples/Test.java",
+		"/home/brian/workspace/java/review/chapter_3/examples/test.java",
 		"/home/brian/workspace/java/playground/CreditCardValidator/CreditCardValidator.java",
 		"/home/brian/workspace/java/playground/CreditCardValidator/.gitignore",
 		"/home/brian/workspace/java/playground/CreditCardValidator/README.md",
@@ -188,6 +251,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"nextLong",
+			" +",
 			"cents"
 		],
 		"highlight": true,
@@ -206,8 +271,93 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "chapter_3/examples/TestBooleanOperators.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								634,
+								634
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 18.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "chapter_3/examples/LeapYear.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 85,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								77,
+								77
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/brian/workspace/java/hackerrank/readfile/ReadFile.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -244,7 +394,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 118.0
+		"height": 249.0
 	},
 	"output.find_results":
 	{
